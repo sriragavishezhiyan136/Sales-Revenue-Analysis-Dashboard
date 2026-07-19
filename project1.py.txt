@@ -1,0 +1,35 @@
+SalesDashboard/
+│
+├── app.py
+├── config.py
+├── requirements.txt
+├── database.db
+│
+├── uploads/
+│
+├── templates/
+│      index.html
+│      dashboard.html
+│      upload.html
+│
+├── static/
+│      css/
+│          style.css
+│
+│      js/
+│          dashboard.js
+│
+│      images/
+│
+├── models/
+│      sales.py
+│
+├── routes/
+│      dashboard.py
+│      upload.py
+│
+├── utils/
+│      analytics.py
+│
+└── data/
+       sample_sales.csv
